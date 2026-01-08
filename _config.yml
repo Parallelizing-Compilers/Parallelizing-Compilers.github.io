@@ -14,19 +14,19 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: CS8803-DSL # the main title
+title: CS6245 # the main title
 
-tagline: Domain Specific Languages for High Performance Computing # it will display as the subtitle
+tagline: Parallelizing Compilers # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Instructional material for a course on domain specific languages for high performance computing
+  Instructional material for a course on parallelizing compilers.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://DSLs-for-HPC.github.io"
+url: "https://Parallelizing-Compilers.github.io"
 
 github:
-  username: DSLs-for-HPC # change to your GitHub username
+  username: Parallelizing-Compilers # change to your GitHub username
 
 social:
   # Change to your full name.
