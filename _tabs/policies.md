@@ -6,26 +6,32 @@ order: 1
 
 # Course Policies
 
+## Prerequisites
+Students should have taken an undergraduate class on compilers, such as CS 4240 (“Compilers and Interpreters”) at Georgia Tech or equivalent.  If in doubt, please contact the instructor.
+
 ## Student-Faculty Expectations
 
-This semester is my first attempt at implementing this course and will contain some experimentation. I appreciate your feedback throughout the semester on what is or is not enhancing your learning experience. Thank you in advance for your commitment to doing well in this course. I will in turn commit to doing my best for this course to help you a more effective, driven engineer. See also the [Georgia Tech Student-Faculty Expectations](https://catalog.gatech.edu/rules/22/).
+This semester is my first attempt at implementing this course and will contain some experimentation. I appreciate your feedback throughout the semester on what is or is not enhancing your learning experience. Thank you in advance for your commitment to doing well in this course. I will in turn commit to doing my best for this course to help you become a more effective, driven engineer. See also the [Georgia Tech Student-Faculty Expectations](https://catalog.gatech.edu/rules/22/).
 
 ## Collaboration
 
-Group work is not allowed on homework assignments. Each student must submit their own work. Sstudents are encouraged to discuss concepts with each other in class to enhance understanding, but all submissions must be individual. Groups of 1-3 will be allowed on the final project.
+Group work is not allowed on homework assignments. Each student must submit their own work. Students are encouraged to discuss concepts with each other in class to enhance understanding, but all submissions must be individual. 
 
 ## Grading and Evaluation
 
-This course uses a fixed grading scale. The course will be graded based on participation, homework and a final project. 
+This course uses a fixed grading scale. The course will be graded based on exams, participation, homework and a final project. 
 
-Individual grading for each assignment and the project will be specified separately. The grading distribution is as follows:
+Individual grading for each assignment will be specified separately. The grading distribution is as follows:
 
 ### Item Weight
-- Participation 25%
-    - 1 point per class, please contribute to the discussion. You may skip up to 3 classes, if needed, without penalty.
-- Assignments 25%
-    - To support learning during homework excercises, I am allowing one homework resubmission, due one week after the graded homework has been returned.
-- Project 50%
+
+| Assignment | Percentage of course grade |
+|------------|----------------------------|
+| 3 Written Homeworks | 30% |
+| Midterm Exam | 20% |
+| Class Participation | 5% |
+| Final Exam | 25% |
+| Class Project (teams of 1 or 2 people) | 20% |
 
 ### Brackets:
 - A (90-100%)
