@@ -44,7 +44,7 @@ See the [Course Policies](/policies) for more information on grading, assignment
 
 ## Schedule
 
-| Date       | Topics                                                                                     | Readings |
-| ---------- | ------------------------------------------------------------------------------------------ | -------- |
-| January 12 | **Welcome**<br/>• Why Parallelizing Compilers?<br/>• Course Policies<br/>• Course Overview |          |
-| January 14 | **Benchmarking**<br/>                                                                      |          |
+| Date | Topics | Readings |
+|-------|--------|----------|
+| January 12 | **Welcome**<br/>• Why Parallelizing Compilers?<br/>• Course Policies<br/>• Course Overview | |
+| January 14 | **Benchmarking**<br/> | |
