@@ -34,6 +34,8 @@ Individual grading for each assignment will be specified separately. The grading
 | Class Project (teams of 1 or 2 people) | 20% |
 
 ### Brackets:
+The default plan is to assign your final letter grade according to the standard scale below.  However, the cutoffs for certain letter grades may be lowered based on the instructor’s discretion.  For example, if your total  course grade is 90% or higher, you are guaranteed to receive an A.  And if the cutoff is lowered to 88%, all students who received course grades of 88% or higher will receive an A.  However, no cutoff will be raised relative to the standard scale below.
+
 - A (90-100%)
 - B (80-89%)
 - C (70-79%)
