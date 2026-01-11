@@ -11,7 +11,7 @@ Students should have taken an undergraduate class on compilers, such as CS 4240 
 
 ## Student-Faculty Expectations
 
-This semester is my first attempt at implementing this course and will contain some experimentation. I appreciate your feedback throughout the semester on what is or is not enhancing your learning experience. Thank you in advance for your commitment to doing well in this course. I will in turn commit to doing my best for this course to help you become a more effective, driven engineer. See also the [Georgia Tech Student-Faculty Expectations](https://catalog.gatech.edu/rules/22/).
+This semester is my first attempt at implementing this course and will contain some experimentation. The schedule is subject to change. I appreciate your feedback throughout the semester on what is or is not enhancing your learning experience. Thank you in advance for your commitment to doing well in this course. I will in turn commit to doing my best for this course to help you become a more effective, driven engineer. See also the [Georgia Tech Student-Faculty Expectations](https://catalog.gatech.edu/rules/22/).
 
 ## Collaboration
 
@@ -29,7 +29,7 @@ Individual grading for each assignment will be specified separately. The grading
 |------------|----------------------------|
 | 4 Homeworks | 30% |
 | Midterm Exam | 20% |
-| Class Participation | 5% |
+| Class Participation (Worksheets) | 5% |
 | Final Exam | 25% |
 | Class Project (teams of 1 or 2 people) | 20% |
 
