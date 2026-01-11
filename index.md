@@ -27,11 +27,11 @@ See the [Course Policies](/policies) for more information on grading, assignment
 - **CRN:** 34760  
 - **Credits:** 3  
 - **Instructor:** Willow Ahrens ([ahrens@gatech.edu](mailto:ahrens@gatech.edu))  
-- **Office Hours:** `TBD`
+- **Office Hours:** 12:00 PM - 1:00 PM on Tuesdays in Klaus Advanced Computing Building, Room 3144
 - **TA**: Ruchika R Shirsath ([rshirsath3@gatech.edu](mailto:rshirsath3@gatech.edu)) and Joel Mathew Cherian ([jcherian32@gatech.edu](mailto:jcherian32@gatech.edu))
-- **TA Office Hours:** `TBD`
-- **Meeting Room:**  College of Computing Room 101
-- **Meeting Time:** Monday & Wednesday, 5:00–6:15 PM
+- **TA Office Hours:** 11:00 AM - 12:00 PM on Thursdays in Klaus Advanced Computing Building, Room 2108
+- **Class Room:**  College of Computing Room 101
+- **Class Time:** Monday & Wednesday, 5:00–6:15 PM
 
 ## Course Materials
 
