@@ -12,11 +12,10 @@ All computers today are parallel computers.  Are you curious about how to genera
 
 Upon successful completion of this course, you should be able to:
 
-- Understand the capabilities and limitations of different array dependence analysis techniques
-- Understand the capabilities and limitations of different loop transformations for locality and parallelism (distribution, fusion, interchange, skewing, tiling, polyhedral)
-- Design compiler extensions to perform automatic parallelization, and related high-level code optimizations
-- Through your project, learn about the state of the art in current research on a topic of your choice related to parallelizing compilers. Your project report should include: (1) an abstract problem statement that can be stated formally, (2) an overview of your solution approach, (3) demonstration of the practicality of your approach through a prototype implementation in a compiler framework or through performance studies of hand-coded examples, and (4) a comparison with related work.
-
+- Optimize the performance of compiler-generated code and HPC programs.
+- Understand the capabilities and limitations of loop transformations for locality and parallelism (distribution, fusion, interchange, skewing, tiling, polyhedral)
+- Design compiler extensions to perform automatic parallelization, and related high level code optimizations
+- Through your project, learn about the state of the art in current research on a topic of your choice related to optimizing compilers. Your project report should include: (1) an abstract problem statement that can be stated formally, (2) an overview of your solution approach, (3) demonstration of the practicality of your approach through a prototype implementation in a compiler framework or through performance studies of hand-coded examples, and (4) a comparison with related work.
 
 ## Policies
 See the [Course Policies](/policies) for more information on grading, assignments, and other course policies.
@@ -35,7 +34,10 @@ See the [Course Policies](/policies) for more information on grading, assignment
 
 ## Course Materials
 
-- **Textbook:** R. Allen and K. Kennedy, Optimizing Compilers for Modern Architectures, Morgan-Kaufmann, Second Printing, 2005.
+- **Textbook:** Randy Allen and Ken Kennedy, Optimizing Compilers for Modern Architectures, Morgan-Kaufmann, Second Printing, 2005.
+
+- **Optional Textbook:** Alfred V. Aho, Jeffrey D. Ullman, Ravi Sethi, Monica S. Lam, Compilers: Principles, Techniques, and Tools, 2nd edition, 2011.
+
 - **Additional Readings:** Additional readings will be recommended throughout the course. You will need to authenticate to the [Georgia Tech Library Proxy](https://library.gatech.edu/research-help-support/accessing-eresources) to access the official versions of these readings. For convenience, try adding the papers you read to a citation manager, such as [Zotero](https://www.zotero.org/) or [Mendeley](https://www.mendeley.com/).
 
 ## Assignments
@@ -58,15 +60,14 @@ See the [Course Policies](/policies) for more information on grading, assignment
 | Wed, Feb 4 | Dependence Theory |
 | Fri, Feb 6 |  | Homework 1 Due |
 | Mon, Feb 9 | Vectorization |
-| Wed, Feb 11 | Vectorization Continued |
-| Mon, Feb 16 | Dependence Testing |
-| Wed, Feb 18 | Polyhedral Compilation Intro |
-| Mon, Feb 23 | Polyhedral Compilation |
-| Wed, Feb 25 | Enhancing Fine-Grained Parallelism |
+| Wed, Feb 11 | Dependence Testing |
+| Mon, Feb 16 | Polyhedral Compilation Intro |
+| Wed, Feb 18 | Polyhedral Compilation |
+| Mon, Feb 23 | Enhancing Fine-Grained Parallelism |
+| Wed, Feb 25 | Unimodular Transformations |
 | Fri, Feb 27 |  | Homework 2 Due |
-| Mon, Mar 2 | Unimodular Transformations |
-| Wed, Mar 4 | Midterm Review |
-| TBD | Midterm |
+| Mon, Mar 2 | Midterm Review |
+| Wed, Mar 4 | Midterm |
 | Mon, Mar 9 | Cache Management | Homework 3 Assigned |
 | Wed, Mar 11 | Cache Management |
 | Mon, Mar 16 | Compiler Improvement of Register Usage |
@@ -84,4 +85,4 @@ See the [Course Policies](/policies) for more information on grading, assignment
 | Mon, Apr 20 | DSLs for Sparse Arrays |
 | Wed, Apr 22 | Course Review |
 | Mon, Apr 27 | Final project presentations |
-| TBD | Final Exam |
+| Fri, May 1 | Final Exam (6:00pm - 8:50pm) |
