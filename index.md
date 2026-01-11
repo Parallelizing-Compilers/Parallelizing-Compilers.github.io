@@ -44,7 +44,42 @@ See the [Course Policies](/policies) for more information on grading, assignment
 
 ## Schedule
 
-| Date | Topics | Readings |
-|-------|--------|----------|
-| January 12 | **Welcome**<br/>• Why Parallelizing Compilers?<br/>• Course Policies<br/>• Course Overview | |
-| January 14 | **Benchmarking**<br/> | |
+| Date | Topic | Assignments |
+| --- | --- | --- |
+| Mon, Jan 12 | Class: Course Overview, Motivation, Preview |
+| Wed, Jan 14 | Class: Performance Engineering and Measurement | [Homework 1](https://sites.google.com/lbl.gov/cs267-spr2025/hw-1) Assigned |
+| Mon, Jan 19 | NO CLASS - SCHOOL HOLIDAY |
+| Wed, Jan 21 | Performance Modeling |
+| Mon, Jan 26 | Optimization by Hand |
+| Wed, Jan 28 | Dependence Analysis |
+| Mon, Feb 2 | Dependence Theory | Homework 2 Assigned |
+| Wed, Feb 4 | Dependence Theory |
+| Fri, Feb 6 |  | Homework 1 Due |
+| Mon, Feb 9 | Vectorization |
+| Wed, Feb 11 | Vectorization Continued |
+| Mon, Feb 16 | Dependence Testing |
+| Wed, Feb 18 | Polyhedral Compilation Intro |
+| Mon, Feb 23 | Polyhedral Compilation |
+| Wed, Feb 25 | Enhancing Fine-Grained Parallelism |
+| Fri, Feb 27 |  | Homework 2 Due |
+| Mon, Mar 2 | Unimodular Transformations |
+| Wed, Mar 4 | Midterm Review |
+| TBD | Midterm |
+| Mon, Mar 9 | Cache Management | Homework 3 Assigned |
+| Wed, Mar 11 | Cache Management |
+| Mon, Mar 16 | Compiler Improvement of Register Usage |
+| Wed, Mar 18 | Control Flow |
+| Fri, Mar 20 |  | Homework 3 Due |
+| Mon, Mar 23 | NO CLASS - SPRING BREAK |
+| Wed, Mar 25 |
+| Mon, Mar 30 | If Conversion | Homework 4 assigned |
+| Wed, Apr 1 | Creating Course-Grained Parallelism |
+| Mon, Apr 6 | Loop Fusion |
+| Wed, Apr 8 | Compiling Array Assignments |
+| Mon, Apr 13 | Domain-Specific Languages |
+| Wed, Apr 15 | DSLs for Distributed Memory |
+| Fri, Apr 17 |  | Homework 4 due |
+| Mon, Apr 20 | DSLs for Sparse Arrays |
+| Wed, Apr 22 | Course Review |
+| Mon, Apr 27 | Final project presentations |
+| TBD | Final Exam |
