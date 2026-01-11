@@ -27,7 +27,7 @@ Individual grading for each assignment will be specified separately. The grading
 
 | Assignment | Percentage of course grade |
 |------------|----------------------------|
-| 3 Written Homeworks | 30% |
+| 4 Homeworks | 30% |
 | Midterm Exam | 20% |
 | Class Participation | 5% |
 | Final Exam | 25% |
@@ -44,7 +44,7 @@ Passing grades are C or higher.
 
 ### Late Policy
 
-All due dates are Anywhere On Earth ([AOE](https://en.wikipedia.org/wiki/Anywhere_on_Earth)). Once I finish grading, usually a few days after the deadline, I will not accept late submissions. Please contact me in advance if you need to request an extension for a legitimate reason.
+I will accept late submissions until the mystery deadline of when I start grading them (usually a few days after the deadline). Please contact me in advance if you need to request an extension for a legitimate reason.
 
 ## Inclusion
 
@@ -65,8 +65,8 @@ Georgia Tech aims to cultivate a community based on trust, academic integrity, a
 
 This is a graduate-level course designed to prepare you for the rigors of academia and the workforce.  I want students to feel free to use any tools at their disposal, as if they were submitting to a journal, following [SIGPLAN disclosure requirements for generative AI](https://www.acm.org/publications/policies/new-acm-policy-on-authorship). I have the following cautions:
 - Computer science is a competitive field, and everyone in the workforce has the same access to AI tools, including those who have not taken this course. Ask yourself whether your use of generative AI helps you develop an edge.
-- You will be graded on what you submit. I am a harsh reviewer. Ask yourself if you trust generative AI with the critical sections of your report.
-- Georgia Tech tuition is $56,302 per year. Ask yourself how much you want to pay for generative AI to think for you.
+- Georgia Tech tuition is $56,302 per year. Ask yourself how much you want to pay for generative AI to learn for you.
+- I'll be really disappointed if I have to grade AI slop.
 
 ## Accommodations
 
