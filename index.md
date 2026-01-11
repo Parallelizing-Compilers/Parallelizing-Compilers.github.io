@@ -40,7 +40,9 @@ See the [Course Policies](/policies) for more information on grading, assignment
 
 ## Assignments
 
-> **Note:** This course website is currently under construction. Please check back later for more information.
+- There will be 4 homework assignments, a midterm exam, a final exam, and a final project.
+- Additionally, there will be in-class worksheets to help you practice concepts.
+- Please see the [Course Policies](/policies) for more information on grading.
 
 ## Schedule
 
