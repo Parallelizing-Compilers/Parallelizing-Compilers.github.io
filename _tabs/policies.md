@@ -27,10 +27,10 @@ Individual grading for each assignment will be specified separately. The grading
 
 | Assignment | Percentage of course grade |
 |------------|----------------------------|
-| 4 Homeworks | 30% |
-| Midterm Exam | 20% |
-| Class Participation (Worksheets) | 5% |
-| Final Exam | 25% |
+| 4 Homeworks | 35% |
+| Midterm Exam | 15% |
+| Class Participation (Worksheets) | 10% |
+| Final Exam | 20% |
 | Class Project (teams of 1 or 2 people) | 20% |
 
 ### Brackets:
