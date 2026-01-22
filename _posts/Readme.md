@@ -26,6 +26,9 @@
 
 ---
 
+## Important Note :
+Tasks requiring heavy compute on the login node will be automatically killed and may result in account suspension. You must use salloc to allocate a compute node before running this assignment.
+
 ## Problem statement
 
 Your task in this assignment is to write an optimized [matrix multiplication](https://en.wikipedia.org/wiki/Matrix_multiplication) function for the PACE ICE Cluster. We will give you a generic matrix multiplication code (also called matmul or dgemm), and it will be your job to tune our code to run efficiently on the Intel Xeon Gold 6226 processors. We are asking you to write an optimized matrix multiply kernel which can be multi-threaded and run on multiple cores.
