@@ -51,9 +51,9 @@ See the [Course Policies](/policies) for more information on grading, assignment
 | Date | Topic | Assignments |
 | --- | --- | --- |
 | Mon, Jan 12 | Class: Course Overview, Motivation, Preview |
-| Wed, Jan 14 | Class: Performance Engineering and Measurement | [Homework 1](https://sites.google.com/lbl.gov/cs267-spr2025/hw-1) Assigned |
+| Wed, Jan 14 | Class: Timing and Measurement | [Worksheet 2](https://github.com/Parallelizing-Compilers/Worksheet2)|
 | Mon, Jan 19 | NO CLASS - SCHOOL HOLIDAY |
-| Wed, Jan 21 | Performance Modeling |
+| Wed, Jan 21 | Performance Modeling | [Homework 1](https://github.com/Parallelizing-Compilers/Homework1) Assigned 
 | Mon, Jan 26 | Optimization by Hand |
 | Wed, Jan 28 | Dependence Analysis |
 | Mon, Feb 2 | Dependence Theory | Homework 2 Assigned |
