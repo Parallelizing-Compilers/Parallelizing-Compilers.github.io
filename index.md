@@ -48,41 +48,51 @@ See the [Course Policies](/policies) for more information on grading, assignment
 
 ## Schedule
 
-| Date | Topic | Assignments |
-| --- | --- | --- |
-| Mon, Jan 12 | Class: Course Overview, Motivation, Preview |
-| Wed, Jan 14 | Class: Timing and Measurement | [Worksheet 2](https://github.com/Parallelizing-Compilers/Worksheet2)|
+| Date | Topic | Assignments | Reading |
+| --- | --- | --- | --- |
+| Mon, Jan 12 | Class: Course Overview, Motivation, Preview |  | [A New Golden Age for Computer Architecture](https://cacm.acm.org/research/a-new-golden-age-for-computer-architecture/)<br/>[How to Read a Paper](https://web.stanford.edu/class/cs245/readings/how-to-read-a-paper.pdf) |
+| Wed, Jan 14 | Class: Timing and Measurement | [Homework 1](https://sites.google.com/lbl.gov/cs267-spr2025/hw-1) Assigned | [Sigplan Guidelines for Empirical Measurement](https://www.sigplan.org/Resources/EmpiricalEvaluation/)<br/>[Scientific benchmarking of parallel computing systems: twelve ways to tell the masses when reporting performance results](https://doi.org/10.1145/2807591.2807644)<br/>[Producing wrong data without doing anything obviously wrong!](https://doi.org/10.1145/1508284.1508275) |
 | Mon, Jan 19 | NO CLASS - SCHOOL HOLIDAY |
-| Wed, Jan 21 | Performance Modeling | [Homework 1](https://github.com/Parallelizing-Compilers/Homework1) Assigned 
-| Mon, Jan 26 | Optimization by Hand |
-| Wed, Jan 28 | Dependence Analysis |
-| Mon, Feb 2 | Dependence Theory | Homework 2 Assigned |
-| Wed, Feb 4 | Dependence Theory |
+| Wed, Jan 21 | Performance Modeling and Optimization |  | Chapter 1 of Allen and Kennedy<br/>[Roofline: an insightful visual performance model for multicore architectures](https://doi.org/10.1145/1498765.1498785) |
+| Mon, Jan 26 | NO CLASS - SNOW DAY |
+| Wed, Jan 28 | Data Dependence |  | Chapter 2.1-2.3 of Allen and Kennedy |
+| Mon, Feb 2 | Dependence and Parallelism |  | Chapter 2.4 of Allen and Kennedy |
+| Wed, Feb 4 | Dependence Testing |  | Chapter 3 of Allen and Kennedy |
 | Fri, Feb 6 |  | Homework 1 Due |
-| Mon, Feb 9 | Vectorization |
-| Wed, Feb 11 | Dependence Testing |
-| Mon, Feb 16 | Polyhedral Compilation Intro |
-| Wed, Feb 18 | Polyhedral Compilation |
-| Mon, Feb 23 | Enhancing Fine-Grained Parallelism |
-| Wed, Feb 25 | Unimodular Transformations |
-| Fri, Feb 27 |  | Homework 2 Due |
-| Mon, Mar 2 | Midterm Review |
+| Mon, Feb 9 | Term Rewriting | Homework 2 Assigned | [Achieving high-performance the functional way: a functional pearl on expressing high-performance optimizations as rewrite strategies](https://doi.org/10.1145/3580371)<br/>[Software Design for Flexibility, Chapter 4](https://mitpress.mit.edu/9780262045490/software-design-for-flexibility/) |
+| Wed, Feb 11 | Syntax and Semantics |  | "Types and Programming Languages" by Benjamin A. Pierce<br/>[Heartbeat Scheduling: Provable Efficiency for Nested Parallelism](https://doi.org/10.1145/3192366.3192391) |
+| Mon, Feb 16 | Dataflow and Preliminary Transformations |  | Chapter 4 of Allen and Kennedy<br/>[Compilers: Principles, Techniques, and Tools, Second Edition, Chapter 9](https://dl.acm.org/doi/10.5555/1177220)<br/>[Lecture 4, Dataflow Analysis, Cornell CS 6120](https://www.cs.cornell.edu/courses/cs6120/2025sp/lesson/4/) |
+| Wed, Feb 18 | Enhancing Fine-Grained Parallelism |  | Chapter 5 of Allen and Kennedy |
+| Fri, Feb 20 |  | Final Project Proposals Due, Homework 2 Due |
+| Mon, Feb 23 | Polyhedral Compilation |  | [Presburger Formulas and Polyhedral Compilation](https://joelburget.com/polycomp-tutorial-v0.02.pdf)<br>[Compilers: Principles, Techniques, and Tools, Chapter 10.4, 11](https://dl.acm.org/doi/10.5555/1177220) |
+| Wed, Feb 25 | Unimodular Transformations | Homework 3 Assigned | [Presburger Formulas and Polyhedral Compilation](https://joelburget.com/polycomp-tutorial-v0.02.pdf)<br>[Compilers: Principles, Techniques, and Tools, Chapter 10.4, 11](https://dl.acm.org/doi/10.5555/1177220) |
+| Mon, Mar 2 | Midterm Review (Maybe) |
 | Wed, Mar 4 | Midterm |
-| Mon, Mar 9 | Cache Management | Homework 3 Assigned |
-| Wed, Mar 11 | Cache Management |
-| Mon, Mar 16 | Compiler Improvement of Register Usage |
-| Wed, Mar 18 | Control Flow |
+| Mon, Mar 9 | Compiler Management of Cache |  | Chapter 9 of Allen and Kennedy |
+| Wed, Mar 11 | Compiler Management of Registers |  | Chapter 8 of Allen and Kennedy |
+| Mon, Mar 16 | Dependence and Control Flow |  | Chapter 7 of Allen and Kennedy<br/>[All you need is superword-level parallelism: systematic control-flow vectorization with SLP](https://dl.acm.org/doi/10.1145/3519939.3523701) |
+| Wed, Mar 18 | Creating Course-Grained Parallelism |  | Chapter 6 of Allen and Kennedy |
 | Fri, Mar 20 |  | Homework 3 Due |
 | Mon, Mar 23 | NO CLASS - SPRING BREAK |
 | Wed, Mar 25 |
-| Mon, Mar 30 | If Conversion | Homework 4 assigned |
-| Wed, Apr 1 | Creating Course-Grained Parallelism |
-| Mon, Apr 6 | Loop Fusion |
-| Wed, Apr 8 | Compiling Array Assignments |
-| Mon, Apr 13 | Domain-Specific Languages |
-| Wed, Apr 15 | DSLs for Distributed Memory |
+| Mon, Mar 30 | Loop Fusion | Homework 4 assigned | Chapter 6 of Allen and Kennedy |
+| Wed, Apr 1 | Scalarization |  | Chapter 13 of Allen and Kennedy |
+| Mon, Apr 6 | Domain-Specific Languages |  | [Programming Pearls: Little Languages](https://doi.org/10.1145/6424.315691) <br/> [Halide: decoupling algorithms from schedules for high-performance image processing](https://doi.org/10.1145/3150211) <br/> [DSL4HPC](https://dsls-for-hpc.github.io) |
+| Wed, Apr 8 | Compilers for Irregular Data |  | [The tensor algebra compiler](https://doi.org/10.1145/3133901)<br/>[Looplets: A Language for Structured Coiteration](https://doi.org/10.1145/3579990.3580020) |
+| Mon, Apr 13 | Compilers for Accelerators |  | [Task-Based Tensor Computations on Modern GPUs](https://doi.org/10.1145/3729262) |
+| Wed, Apr 15 | Compilers for Distributed Memory |  | [Legion: Expressing Locality and Independence with Logical Regions](https://doi.org/10.1109/SC.2012.71)<br/>[DISTAL: The Distributed Tensor Algebra Compiler](https://doi.org/10.1145/3519939.3523437) |
 | Fri, Apr 17 |  | Homework 4 due |
-| Mon, Apr 20 | DSLs for Sparse Arrays |
-| Wed, Apr 22 | Course Review |
+| Mon, Apr 20 | Autoscheduling |  | [OpenTuner: An Extensible Framework for Program Autotuning](https://doi.org/10.1145/2628071.2628092)<br/> [Autotuning in High-Performance Computing Applications](https://doi.org/10.1109/JPROC.2018.2841200) |
+| Wed, Apr 22 | Final project presentations |
 | Mon, Apr 27 | Final project presentations |
 | Fri, May 1 | Final Exam (6:00pm - 8:50pm) |
+
+## Inspired by
+- [GA Tech CS 8803-DSL: Domain Specific Languages for High Performance Computing](https://dsls-for-hpc.github.io), Willow Ahrens.
+- [Stanford CS343D: Domain-Specific Programming Models and Compilers](https://cs343d.github.io/course_info.html), Fredrik Kjolstad.
+- [MIT 6.172: Performance Engineering of Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/),
+- [Cornell CS 6120: Advanced Compilers](https://www.cs.cornell.edu/courses/cs6120/2025sp/syllabus/)
+- [UC Berkeley CS267: Applications of Parallel Computers](https://sites.google.com/lbl.gov/cs267-spr2022), Aydin Buluc, Kathy Yelick, James Demmel.
+- [UC Berkeley CS294: Building User-Centered Programming Tools](https://schasins.com/cs294-usable-programming-2025/)
+- [6.S894: Accelerated Computing](https://accelerated-computing-class.github.io/fall24/)
+
