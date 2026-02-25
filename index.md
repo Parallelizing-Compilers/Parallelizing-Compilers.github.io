@@ -65,14 +65,14 @@ See the [Course Policies](/policies) for more information on grading, assignment
 | Wed, Feb 18 | Domain-Specific Languages |  | [Programming Pearls: Little Languages](https://doi.org/10.1145/6424.315691) <br/> [Halide: decoupling algorithms from schedules for high-performance image processing](https://doi.org/10.1145/3150211) <br/> [DSL4HPC](https://dsls-for-hpc.github.io) |
 | Fri, Feb 20 |  | Final Project Proposals Due |
 | Mon, Feb 23 | Enhancing Fine-Grained Parallelism |  | Chapter 5 of Allen and Kennedy |
-| Wed, Feb 25 | Polyhedral Compilation | Homework 3 Assigned | [Presburger Formulas and Polyhedral Compilation](https://joelburget.com/polycomp-tutorial-v0.02.pdf)<br>[Compilers: Principles, Techniques, and Tools, Chapter 10.4, 11](https://dl.acm.org/doi/10.5555/1177220) |
+| Wed, Feb 25 | Enhancing Course-Grained Parallelism |  | Chapter 6 of Allen and Kennedy |
 | Fri, Feb 27 |  | Homework 2 Due |
 | Mon, Mar 2 | Unimodular Transformations |  | [Presburger Formulas and Polyhedral Compilation](https://joelburget.com/polycomp-tutorial-v0.02.pdf)<br>[Compilers: Principles, Techniques, and Tools, Chapter 10.4, 11](https://dl.acm.org/doi/10.5555/1177220) |
-| Wed, Mar 4 | Midterm |
-| Mon, Mar 9 | Compiler Management of Cache |  | Chapter 9 of Allen and Kennedy |
-| Wed, Mar 11 | Compiler Management of Registers |  | Chapter 8 of Allen and Kennedy |
+| Wed, Mar 4 | Midterm | Homework 3 Assigned |
+| Mon, Mar 9 | Compiler Management of Registers |  | Chapter 8 of Allen and Kennedy |
+| Wed, Mar 11 | Compiler Management of Cache |  | Chapter 9 of Allen and Kennedy |
 | Mon, Mar 16 | Dependence and Control Flow |  | Chapter 7 of Allen and Kennedy<br/>[All you need is superword-level parallelism: systematic control-flow vectorization with SLP](https://dl.acm.org/doi/10.1145/3519939.3523701) |
-| Wed, Mar 18 | Creating Course-Grained Parallelism |  | Chapter 6 of Allen and Kennedy |
+| Wed, Mar 18 | Polyhedral Compilation |  | [Presburger Formulas and Polyhedral Compilation](https://joelburget.com/polycomp-tutorial-v0.02.pdf)<br>[Compilers: Principles, Techniques, and Tools, Chapter 10.4, 11](https://dl.acm.org/doi/10.5555/1177220) |
 | Fri, Mar 20 |  | Homework 3 Due |
 | Mon, Mar 23 | NO CLASS - SPRING BREAK |
 | Wed, Mar 25 |
