@@ -50,7 +50,7 @@ See the [Course Policies](/policies) for more information on grading, assignment
 
 | Date | Topic | Assignments | Reading |
 | --- | --- | --- | --- |
-| Mon, Jan 12 | Class: Course Overview, Motivation, Preview |  | [A New Golden Age for Computer Architecture](https://cacm.acm.org/research/a-new-golden-age-for-computer-architecture/)<br/>[How to Read a Paper](https://web.stanford.edu/class/cs245/readings/how-to-read-a-paper.pdf) |
+| Mon, Jan 12 | Class: Course Overview, Motivation, Preview |  | [A New Golden Age for Computer Architecture](https://cacm.acm.org/research/a-new-golden-age-for-computer-architecture/)<br/>[How to Read a Paper](https://web.stanford.edu/class/cs245/readings/how-to-read-a-paper.pdf)<br/>[How to Write a Good Systems Paper](https://ben.edu/wp-content/uploads/2022/06/How-and-How-Not-to-Write-a-Good-Systems-Paper.pdf)|
 | Wed, Jan 14 | Class: Timing and Measurement | [Homework 1](https://sites.google.com/lbl.gov/cs267-spr2025/hw-1) Assigned | [Sigplan Guidelines for Empirical Measurement](https://www.sigplan.org/Resources/EmpiricalEvaluation/)<br/>[Scientific benchmarking of parallel computing systems: twelve ways to tell the masses when reporting performance results](https://doi.org/10.1145/2807591.2807644)<br/>[Producing wrong data without doing anything obviously wrong!](https://doi.org/10.1145/1508284.1508275) |
 | Mon, Jan 19 | NO CLASS - SCHOOL HOLIDAY |
 | Wed, Jan 21 | Performance Modeling and Optimization |  | Chapter 1 of Allen and Kennedy<br/>[Roofline: an insightful visual performance model for multicore architectures](https://doi.org/10.1145/1498765.1498785) |
