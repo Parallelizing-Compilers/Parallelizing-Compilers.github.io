@@ -47,10 +47,9 @@ See the [Course Policies](/policies) for more information on grading, assignment
 - Please see the [Course Policies](/policies) for more information on grading.
 
 ## Schedule
-
 | Date | Topic | Assignments | Reading |
 | --- | --- | --- | --- |
-| Mon, Jan 12 | Class: Course Overview, Motivation, Preview |  | [A New Golden Age for Computer Architecture](https://cacm.acm.org/research/a-new-golden-age-for-computer-architecture/)<br/>[How to Read a Paper](https://web.stanford.edu/class/cs245/readings/how-to-read-a-paper.pdf)<br/>[How to Write a Good Systems Paper](https://ben.edu/wp-content/uploads/2022/06/How-and-How-Not-to-Write-a-Good-Systems-Paper.pdf)|
+| Mon, Jan 12 | Class: Course Overview, Motivation, Preview |  | [A New Golden Age for Computer Architecture](https://cacm.acm.org/research/a-new-golden-age-for-computer-architecture/)<br/>[How to Read a Paper](https://web.stanford.edu/class/cs245/readings/how-to-read-a-paper.pdf) <br/>[How to Write a Good Systems Paper](https://ben.edu/wp-content/uploads/2022/06/How-and-How-Not-to-Write-a-Good-Systems-Paper.pdf)|
 | Wed, Jan 14 | Class: Timing and Measurement | [Homework 1](https://sites.google.com/lbl.gov/cs267-spr2025/hw-1) Assigned | [Sigplan Guidelines for Empirical Measurement](https://www.sigplan.org/Resources/EmpiricalEvaluation/)<br/>[Scientific benchmarking of parallel computing systems: twelve ways to tell the masses when reporting performance results](https://doi.org/10.1145/2807591.2807644)<br/>[Producing wrong data without doing anything obviously wrong!](https://doi.org/10.1145/1508284.1508275) |
 | Mon, Jan 19 | NO CLASS - SCHOOL HOLIDAY |
 | Wed, Jan 21 | Performance Modeling and Optimization |  | Chapter 1 of Allen and Kennedy<br/>[Roofline: an insightful visual performance model for multicore architectures](https://doi.org/10.1145/1498765.1498785) |
@@ -68,24 +67,24 @@ See the [Course Policies](/policies) for more information on grading, assignment
 | Wed, Feb 25 | Enhancing Course-Grained Parallelism |  | Chapter 6 of Allen and Kennedy |
 | Fri, Feb 27 |  | Homework 2 Due |
 | Mon, Mar 2 | Unimodular Transformations |  | [Presburger Formulas and Polyhedral Compilation](https://joelburget.com/polycomp-tutorial-v0.02.pdf)<br>[Compilers: Principles, Techniques, and Tools, Chapter 10.4, 11](https://dl.acm.org/doi/10.5555/1177220) |
-| Wed, Mar 4 | Midterm | Homework 3 Assigned |
+| Wed, Mar 4 | Midterm |
 | Mon, Mar 9 | Compiler Management of Registers |  | Chapter 8 of Allen and Kennedy |
-| Wed, Mar 11 | Compiler Management of Cache |  | Chapter 9 of Allen and Kennedy |
-| Mon, Mar 16 | Dependence and Control Flow |  | Chapter 7 of Allen and Kennedy<br/>[All you need is superword-level parallelism: systematic control-flow vectorization with SLP](https://dl.acm.org/doi/10.1145/3519939.3523701) |
+| Wed, Mar 11 | Compiler Management of Cache | Homework 3 Assigned | Chapter 9 of Allen and Kennedy |
+| Mon, Mar 16 | Scheduling Languages |
 | Wed, Mar 18 | Polyhedral Compilation |  | [Presburger Formulas and Polyhedral Compilation](https://joelburget.com/polycomp-tutorial-v0.02.pdf)<br>[Compilers: Principles, Techniques, and Tools, Chapter 10.4, 11](https://dl.acm.org/doi/10.5555/1177220) |
 | Fri, Mar 20 |  | Homework 3 Due |
 | Mon, Mar 23 | NO CLASS - SPRING BREAK |
 | Wed, Mar 25 |
-| Mon, Mar 30 | Loop Fusion | Homework 4 assigned | Chapter 6 of Allen and Kennedy |
-| Wed, Apr 1 | Scalarization |  | Chapter 13 of Allen and Kennedy |
-| Mon, Apr 6 | Autoscheduling |  | [OpenTuner: An Extensible Framework for Program Autotuning](https://doi.org/10.1145/2628071.2628092)<br/> [Autotuning in High-Performance Computing Applications](https://doi.org/10.1109/JPROC.2018.2841200) |
+| Mon, Mar 30 | Autoscheduling |  | [OpenTuner: An Extensible Framework for Program Autotuning](https://doi.org/10.1145/2628071.2628092)<br/> [Autotuning in High-Performance Computing Applications](https://doi.org/10.1109/JPROC.2018.2841200) |
+| Wed, Apr 1 | Scalarization | Homework 4 Assigned | Chapter 13 of Allen and Kennedy |
+| Mon, Apr 6 | Dependence and Control Flow |  | Chapter 7 of Allen and Kennedy<br/>[All you need is superword-level parallelism: systematic control-flow vectorization with SLP](https://dl.acm.org/doi/10.1145/3519939.3523701) |
 | Wed, Apr 8 | Compilers for Irregular Data |  | [The tensor algebra compiler](https://doi.org/10.1145/3133901)<br/>[Looplets: A Language for Structured Coiteration](https://doi.org/10.1145/3579990.3580020) |
 | Mon, Apr 13 | Compilers for Accelerators |  | [Task-Based Tensor Computations on Modern GPUs](https://doi.org/10.1145/3729262) |
 | Wed, Apr 15 | Compilers for Distributed Memory |  | [Legion: Expressing Locality and Independence with Logical Regions](https://doi.org/10.1109/SC.2012.71)<br/>[DISTAL: The Distributed Tensor Algebra Compiler](https://doi.org/10.1145/3519939.3523437) |
 | Fri, Apr 17 |  | Homework 4 due |
-| Mon, Apr 20 | Final project presentations/Guest Lecture |
-| Wed, Apr 22 | Final project presentations/Guest Lecture |
-| Mon, Apr 27 | Final project presentations/Guest Lecture |
+| Mon, Apr 20 | Final project presentations (5 min each + 4 min questions) |
+| Wed, Apr 22 | Final project presentations (5 min each + 4 min questions) |
+| Mon, Apr 27 | Final project presentations (5 min each + 4 min questions) |
 | Fri, May 1 | Final Exam (6:00pm - 8:50pm) |
 
 ## Inspired by
