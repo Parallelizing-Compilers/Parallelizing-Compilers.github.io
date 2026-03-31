@@ -47,6 +47,7 @@ See the [Course Policies](/policies) for more information on grading, assignment
 - Please see the [Course Policies](/policies) for more information on grading.
 
 ## Schedule
+
 | Date | Topic | Assignments | Reading |
 | --- | --- | --- | --- |
 | Mon, Jan 12 | Class: Course Overview, Motivation, Preview |  | [A New Golden Age for Computer Architecture](https://cacm.acm.org/research/a-new-golden-age-for-computer-architecture/)<br/>[How to Read a Paper](https://web.stanford.edu/class/cs245/readings/how-to-read-a-paper.pdf) <br/>[How to Write a Good Systems Paper](https://ben.edu/wp-content/uploads/2022/06/How-and-How-Not-to-Write-a-Good-Systems-Paper.pdf)|
